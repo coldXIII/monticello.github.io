@@ -197,7 +197,7 @@ body.page-1 #intro__pagination li:nth-of-type(1), body.page-2 #intro__pagination
 }
 .intro #intro__pagination li {
   position: relative;
-  border: 1px solid #262626;
+  border: 1px solid #fff;
   border-radius: 50%;
   width: 1rem;
   height: 1rem;
